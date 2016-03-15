@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{pcb}
+Barry Jay.
+\newblock {\em Pattern Calculus: Computing with Functions and Structures}.
+\newblock Springer, 2009.
+
+\bibitem{JK09}
+Barry Jay and Delia Kesner.
+\newblock First-class patterns.
+\newblock {\em Journal of Functional Programming}, 19(2):191--225, 2009.
+
+\end{thebibliography}
