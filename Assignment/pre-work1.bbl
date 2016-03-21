@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{duvenaud2013structure}
+David Duvenaud, James~Robert Lloyd, Roger Grosse, Joshua~B Tenenbaum, and
+  Zoubin Ghahramani.
+\newblock Structure discovery in nonparametric regression through compositional
+  kernel search.
+\newblock {\em arXiv preprint arXiv:1302.4922}, 2013.
+
+\bibitem{huang2012extreme}
+Guang-Bin Huang, Hongming Zhou, Xiaojian Ding, and Rui Zhang.
+\newblock Extreme learning machine for regression and multiclass
+  classification.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B:
+  Cybernetics}, 42(2):513--529, 2012.
+
+\bibitem{rasmussen2006gaussian}
+C.~E. Rasmussen and C.~K.~I. Williams.
+\newblock {\em Gaussian Processes for Machine Learning}.
+\newblock MIT Press, 2006.
+
+\bibitem{vapnik1998statistical}
+Vladimir~N. Vapnik.
+\newblock {\em Statistical Learning Theory}.
+\newblock Wiley-Interscience, 1998.
+
+\end{thebibliography}

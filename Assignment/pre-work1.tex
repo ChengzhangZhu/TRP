@@ -1,0 +1,140 @@
+\documentclass{article}
+\title{The Report of Kernel Combination Techniques in Machine Learning}
+\author{Chengzhang Zhu}
+\date{21 March 2016}
+
+\begin{document}
+\maketitle
+
+\subsection*{Introduction}
+Kernel learning is one of the most important branch in machine learning field. Lots of famous machine learning methods are based on kernel, such as SVM \cite{vapnik1998statistical}, Gaussian Process \cite{rasmussen2006gaussian}, and ELM \cite{huang2012extreme}. One kernel is always used in kernel machine, but it is neither sufficient for capturing different kinds of distribution lying under data nor trackable for capturing heterogeneous information. In contrary, multiple kernel can fill these gaps yet full of challenge, which comes from the hardness of multiple kernel combination. Thus, I want to review state-of-the-art kernel combination techniques in machine learning. I summarize several interesting paper.
+
+\subsection*{Literature Review}
+The first paper is Structure Discovery in Nonparametric Regression through Compositional Kernel Search \cite{duvenaud2013structure}. I will add the detail of this paper in the next stage.
+
+%
+%\subsection*{The Skeleton of your Literature-Based Report}
+%
+%Your task is to produce a {\em skeleton} of the literature-based
+%report that you will produce for Assignment 2. That is, it will have
+%all of the structure of the report (the bones) but almost no content
+%(no flesh).  The goal here is to produce a report of professional
+%standard.  There are quite a few small tasks to complete. By
+%completing them now, you can focus on the content of your report
+%later.  The main things you have to do are:
+%\begin{enumerate}
+%\item choose a word-processor, e.g. Latex or Word
+%\item
+%choose a style file or template for your report
+%\item pick a topic for your report (this may change)
+%\item
+%fill in your name, the report title, and the submission date (check the subject outline)
+%\item
+%write a paragraph explaining why you are interested in this topic. 
+%\item
+%pick one scholarly paper on this topic. 
+%\item
+%make a citation of this paper in a second paragraph.
+%\item create the bibliography for the report.
+%\item 
+%check that everything has compiled correctly. 
+%\end{enumerate}
+%
+%
+%\subsection*{An example in latex}
+%
+%The example below is done in latex. You are welcome to use Word if you
+%prefer, in which case you probably want to use EndNote for your references. 
+%If you want to try out latex, you will need to make sure that it is installed on your machine. 
+%The document you are reading, pre-work1.pdf, was created from
+%pre-work1.tex (available on UTSOnline) by executing the following commands
+%\begin{verbatim}
+%pdflatex pre-work1
+%bibtex pre-work1
+%pdflatex pre-work1
+%pdflatex pre-work1
+%\end{verbatim}
+%The first use of ``pdflatex'' does a first pass through the document.
+%Most of the formatting is done on this pass, including production of a
+%pdf file, but section numbers, reference numbers etc are represented
+%by question marks, whose values will be determined in subsequent
+%passes. Then ``bibtex pre-work1'' creates the bibliography from a
+%specified bibliographic database, here called two\_papers.bib. Two more passes get all the
+%numbering and references settled.
+%Now let us go through the steps.
+%
+%\begin{enumerate}
+%\item I create a file
+%  pre-work1.tex, also available on UTS online.
+%\item
+%I an using the article style, as indicated by the opening line
+%\begin{verbatim}
+%\documentclass{article}
+%\end{verbatim}
+%\item
+%My topic is pre-work1 for TRP. 
+%\item 
+%The title, author and date are given by 
+%\begin{verbatim}
+%\title{Technology Research Preparation \\
+%Pre-Work 1: Setting up for  Assignment 2 }
+%\author{Barry Jay}
+%\date{Autumn 2016}
+%\end{verbatim}
+%\item The paragraphs you see are mainly straight typing but the {\tt
+%    enumerate} environemnt is used to make a numbered list, and {\tt
+%    verbatim} is used for quotation. 
+%\item My scholarly paper is not actually about TRP. I wrote a book
+%  about the foundations of computing, about {\em pattern calculus}
+%  \cite{pcb} which will do to illustrate. 
+%\item
+%In pre-work1.tex, the citation is given by 
+%\begin{verbatim}
+%... about {\em pattern calculus} \cite{pcb}  ...
+%\end{verbatim}
+%All $\backslash$ are used to indicate latex commands. The ``em'' is
+%used for emphasis. The ``cite'' is used to indicate a citation, whose
+%key is ``pcb'' (for pattern calculus book).
+%\item
+%The bibliography is set up using 
+%\begin{verbatim}
+%\bibliographystyle{plain}
+%\bibliography{two_papers}
+%\end{verbatim}
+%The first line sets the bibliographic style. The second links to the
+%bibliographic data in ``two\_papers.bib''. You will need to create
+%such a database for your papers.  That doesn't mean that you should
+%type the data by hand. Often, the publisher will do it for you. In
+%this case Springer supplies the information but you need to do a lot
+%of cut and paste. So here is another paper I wrote \cite{JK09} whose
+%publiser provides a bibtex citation that you can just drop into your
+%bib file. 
+%\end{enumerate}
+%
+%If this is your first time using latex then take a copy of pre-work1.tex and check that you can make it work for you. 
+%
+%
+
+\bibliographystyle{plain}
+\bibliography{pre-work1}
+
+
+\end{document}
+%
+%choose a style file or template for your report
+%\item pick a topic for your report 
+%\item
+%fill in your name, the report title, and the submission date (check the subject outline)
+%
+%
+%
+% is an example of the
+%
+%Here is an example.
+
+
+%
+%process the citation using a bibliographic tool, such as bibtex or EndNote. 
+%A theory of computation based on quantum logic (I)
+%\item
+% supervisor's name, intended submission date; put your current research proposal in Chapter 1; put your current literature review (e.g. from TRP) from TRP in Chapter 2 create six chapters, including Introduction and Literature Review

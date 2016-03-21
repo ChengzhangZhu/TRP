@@ -1,0 +1,91 @@
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2015.11.4)  21 MAR 2016 17:36
+entering extended mode
+**pre-work1.tex
+
+("C:\Users\Chengzhang Zhu\OneDrive\Documents\Semester 1 UTS\32144Technology Res
+earch Preparation\Assignment\pre-work1.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(C:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(C:\CTEX\MiKTeX\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Chengzhang Zhu\OneDrive\Documents\Semester 1 UTS\32144Technology Res
+earch Preparation\Assignment\pre-work1.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+Requested font "cmr17" at 17.28pt
+ -> cmr17
+Requested font "cmr12" at 12.0pt
+ -> cmr12
+Requested font "cmr8" at 8.0pt
+ -> cmr8
+Requested font "cmr6" at 6.0pt
+ -> cmr6
+Requested font "cmmi12" at 12.0pt
+ -> cmmi12
+Requested font "cmmi8" at 8.0pt
+ -> cmmi8
+Requested font "cmmi6" at 6.0pt
+ -> cmmi6
+Requested font "cmsy10" at 12.0pt
+ -> cmsy10
+Requested font "cmsy8" at 8.0pt
+ -> cmsy8
+Requested font "cmsy6" at 6.0pt
+ -> cmsy6
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+Requested font "cmbx12" at 12.0pt
+ -> cmbx12
+
+("C:\Users\Chengzhang Zhu\OneDrive\Documents\Semester 1 UTS\32144Technology Res
+earch Preparation\Assignment\pre-work1.bbl"
+Requested font "cmr12" at 14.4pt
+ -> cmr12
+Requested font "cmbx12" at 14.4pt
+ -> cmbx12
+Requested font "cmti10" at 10.0pt
+ -> cmti10
+) [1
+
+]
+("C:\Users\Chengzhang Zhu\OneDrive\Documents\Semester 1 UTS\32144Technology Res
+earch Preparation\Assignment\pre-work1.aux") ) 
+Here is how much of TeX's memory you used:
+ 235 strings out of 430478
+ 2800 string characters out of 3191502
+ 49103 words of memory out of 3000000
+ 3438 multiletter control sequences out of 15000+200000
+ 7933 words of font info for 28 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 23i,6n,17p,757b,187s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on pre-work1.pdf (1 page).
